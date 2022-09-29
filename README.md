@@ -1,3 +1,5 @@
+# :lock: This is archived because we use a modified version of this under our ppm package
+
 # apm - Atom Package Manager
 
 ![Build Status](https://github.com/atom-ide-community/apm/workflows/CI/badge.svg)
